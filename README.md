@@ -72,4 +72,4 @@ We analyze key factors affecting taxi fares, such as:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any inquiries, reach out via GitHub Issues or email: [your.shreeyadashbdk@gmail.com]
+For any inquiries, reach out via GitHub Issues or email: [shreeyadashbdk@gmail.com]
